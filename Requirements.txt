@@ -1,0 +1,2 @@
+- Any python ide or shell
+- Pygame
